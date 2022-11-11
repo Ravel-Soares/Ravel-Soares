@@ -1,7 +1,7 @@
 ### Olá eu sou Ravel 
 
 
-- 🔭 Hoje me dedico ao desenvolvimento WEB utilizando HTML CSS e PHP e JavaScript (Front-end) | javascript nodeJS (back-end)
+- 🔭 Aprendendo javascript, nodeJS, mongodb (back-end) 
 - 🌱 Estudando PHP e JAVASCRIPT
 - 💬 Contate o email: ravelbr15@gmail.com
 
