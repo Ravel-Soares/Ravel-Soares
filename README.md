@@ -1,8 +1,8 @@
 ### Olá eu sou Ravel 
 
 
-- 🔭 Aprendendo javascript, nodeJS, mongodb (back-end) 
-- 🌱 Estudando PHP e JAVASCRIPT
+
+- 🌱 Aprendendo javascript, nodeJS, mongodb (back-end) 
 - 💬 Contate o email: ravelbr15@gmail.com
 
 <div align="center">
