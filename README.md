@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Aprendendo javascript, nodeJS, mongodb (back-end) 
+- 🌱 Aprendendo C#, evoluindo cada vez mais todos os dias
 - 💬 Contate o email: ravelbr15@gmail.com
 
 <div align="center">
